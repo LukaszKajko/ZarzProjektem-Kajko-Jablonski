@@ -1,0 +1,5 @@
+W wyniku prac badawczych oraz analiz informatycznych, duet dwóch studentów informatyki
+opracował nowy projekt - słuchawki, które tłumaczą na bieżąco język rozmówcy z wykorzystaneim AI.
+Zauważono, że w krajach, w których ludnośc tubylcza nie zna biegle języka innego niż swój własny,
+turystom, którzy nie chcą tracić czasu na uczenie sie lokalnego języka, a chcą poznać lokalną kulturę,
+takie słuchawki mogłyby okazać się bardzo przydatne.
