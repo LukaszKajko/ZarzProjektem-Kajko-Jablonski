@@ -1,0 +1,9 @@
+zad1.
+Przeprowadzono wstępną analizę możliwych zastosowań technologii tłumaczenia maszynowego mowy w czasie rzeczywistym z wykorzystaniem sztucznej inteligencji. Ustalono, że można ją rozwinąć i zintegrować z urządzeniami mobilnymi. Optymalnym rozwiązaniem jest, aby do zaprojektowanego algorytmu tłumaczenia i przetwarzania dźwięku stworzyć aplikację mobilną, która będzie stanowić intuicyjny interfejs dla użytkownika. Za jej pomocą turysta będzie mógł łatwo wybierać języki, zarządzać trybami konwersacji oraz dostosować działanie słuchawek pod własne potrzeby. Aplikacja powinna być prosta i szybka w obsłudze.
+
+zad2.
+- prototyp słuchawek 
+- środowisko testowe do rozmów
+- stabilny internet
+- 3x komputerów do trenowania i optymalizacji AI
+- 3x środowiska programistyczne (Visual studio)
