@@ -1,0 +1,42 @@
+﻿Sprawozdanie
+
+
+1. Treść I poziomu TRL (Lab 2) 
+W wyniku prac badawczych oraz analiz informatycznych, duet dwóch studentów informatyki opracował nowy projekt – słuchawki, które tłumaczą na bieżąco język rozmówcy z wykorzystaniem AI. Zauważono, że w krajach, w których ludność tubylcza nie zna biegle języka innego niż swój własny, turystom, którzy nie chcą tracić czasu na uczenie się lokalnego języka, a chcą poznać lokalną kulturę, takie słuchawki mogłyby okazać się bardzo przydatne
+2. Treść II poziomu TRL (Lab 3) 
+zad.1
+Przeprowadzono wstępną analizę możliwych zastosowań technologii tłumaczenia maszynowego mowy w czasie rzeczywistym z wykorzystaniem sztucznej inteligencji. Ustalono, że można ją rozwinąć i zintegrować z urządzeniami mobilnymi. Optymalnym rozwiązaniem jest, aby do zaprojektowanego algorytmu tłumaczenia i przetwarzania dźwięku stworzyć aplikację mobilną, która będzie stanowić intuicyjny interfejs dla użytkownika. Za jej pomocą turysta będzie mógł łatwo wybierać języki, zarządzać trybami konwersacji oraz dostosować działanie słuchawek pod własne potrzeby. Aplikacja powinna być prosta i szybka w obsłudze.
+zad.2
+Lista potrzebnych rzeczy:
+* prototyp słuchawek,
+* środowisko testowe do rozmów,
+* stabilny internet,
+* 3x komputery do trenowania i optymalizacji AI,
+* 3x środowiska programistyczne (Visual Studio).
+3. Treść III poziomu TRL (Lab 4)
+W ramach realizacji III poziomu gotowości technologicznej zostaną zrealizowane prace badawcze w następującym zakresie: 
+* Moduł rozpoznawania mowy - moduł będzie odpowiedzialny za przekształcenie słów na tekst z wykorzystaniem AI. W ramach badań 
+* szczególny nacisk położony będzie na skuteczność rozpoznawania różnych języków.
+* Moduł tłumaczenia językowego AI - moduł będzie realizował tłumaczenie tekstu uzyskanego z modułu rozpoznawania mowy na język
+* użytkownika. Prace będą skupiały się na ocenie poprawności tłumaczeń i zachowaniu kontekstu wypowiedzi.
+* Moduł syntezy mowy - moduł ten będzie odpowiadał za zamianę przetłumaczonego tekstu na komunikat głosowy.
+* Moduł transmisji bezprzewodowej - odpowiedzialny za przesyłanie danych pomiędzy urządzeniem mobilnym a słuchawkami.
+W ramach III poziomu gotowości technologicznej zostanie zweryfikowana możliwość wykorzystania istniejących technologii sztucznej inteligencji do realizacji tłumaczenia rozmów w czasie rzeczywistym.
+3. Treść IV poziomu TRL (Lab 5)
+zad1. 
+W ramach realizacji IV poziomu gotowości technologicznej przeprowadzono badania zintegrowanych modułów w warunkach laboratoryjnych:
+* Moduł rozpoznawania mowy – przygotowano zestaw kontrolny 100 próbek audio w różnych językach (m.in. angielski, hiszpański, japoński). Po wykonaniu 100 testów, moduł wykazał pewne odchylenia w dokładności tłumaczenia. Ustalono, że na negatywny wynik był spowodowany zbyt mocnym wychwytywaniem dźwięków zewnątrz. Wprowadzono poprawkę wstępnego odszumiania dźwięku i ponownie wykonano 100 serii testów – wyniki w całej serii były stabilne, a błędy rozpoznawania zostały zminimalizowane.
+* Moduł tłumaczenia językowego AI – przygotowano zestaw kontrolny 100 zróżnicowanych fraz oraz powiedzeń turystycznych. Przeprowadzono 100 serii testów translacyjnych. Algorytm wykazał miejscowe odchylenia w mowie potocznej turystów. Ustalono, że przyczyną była zbyt dosłowna interpretacja modeli. Wprowadzono korektę parametrów promptu i kontekstu okna dialogowego oraz powtórzono 100 serii testów. Wyniki w całej serii zostały poprawione, a odchylenia zminimalizowane.
+* Moduł syntezy mowy i transmisji bezprzewodowej – przygotowano zestaw kontrolny 100 przetłumaczonych komunikatów tekstowych przeznaczonych do przesłania na prototyp słuchawek. Wykonano po 100 serii testów dla przesyłu i generowania dźwięku. Podczas testów odnotowano opóźnienia w transmisji bezprzewodowej. Ustalono, że problem wynika z buforowania pakietów audio. Wprowadzono poprawkę optymalizującą rozmiar bufora transmisji i powtórzono 100 serii testów – opóźnienia spadły do akceptowalnego poziomu czasu rzeczywistego, a wyniki uznano za poprawione, a odchylenia zostały zminimalizowane.
+zad2.
+Ryzyko: Opóźnienia w tłumaczeniu w zależności od obciążenia łącza internetowego. 
+Rozwiązanie: Zastosowanie hybrydowego modelu przetwarzania – wdrożenie lekkiego, lokalnego modelu AI bezpośrednio na urządzeniu mobilnym , który wykonuje podstawowe tłumaczenia offline, gdy jakość połączenia z serwerem spada. 
+
+
+
+
+
+
+
+
+.
