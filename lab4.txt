@@ -1,0 +1,8 @@
+W ramach realizacji III poziomu gotowości technologicznej zostaną zrealizowane pracę badawcze w następującym zakresie: 
+-Moduł rozpoznawania mowy - moduł bedzie odpowiedzialny za przekształcenie słów na tekst z wykorzystaniem AI. W ramach badań 
+szczególny nacisk położony będzie na skuteczność rozpoznawania różnych języków.
+-Moduł tłumaczenia językowego AI - moduł będzie realizował tłumaczenie tekstu uzyskanego z modułu rozpoznawania mowy na język
+użytkownika. Prace będą skupiały się na ocenie poprawności tłumaczeń i zachowaniu kontekstu wypowiedzi.
+-Moduł syntezy mowy - moduł ten będzie odpowiadał za zamiane przetłumaczonego tekstu na komunikat głosowy.
+-Moduł transmisji bezprzewodowej - odpowiedzialny za przesyłanie danych pomiędzy urządzeniem mobilnym a słuchawkami.
+W ramach III poziomu gotowości technologicznej zostanie zweryfikowana możliwość wykorzystania istniejących technologii sztucznej inteligencji do realizacji tłumaczenia rozmów w czasie rzeczywistym.
