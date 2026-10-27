@@ -22,7 +22,7 @@ W ramach realizacji III poziomu gotowości technologicznej zostaną zrealizowane
 * Moduł syntezy mowy - moduł ten będzie odpowiadał za zamianę przetłumaczonego tekstu na komunikat głosowy.
 * Moduł transmisji bezprzewodowej - odpowiedzialny za przesyłanie danych pomiędzy urządzeniem mobilnym a słuchawkami.
 W ramach III poziomu gotowości technologicznej zostanie zweryfikowana możliwość wykorzystania istniejących technologii sztucznej inteligencji do realizacji tłumaczenia rozmów w czasie rzeczywistym.
-3. Treść IV poziomu TRL (Lab 5)
+4. Treść IV poziomu TRL (Lab 5)
 zad1. 
 W ramach realizacji IV poziomu gotowości technologicznej przeprowadzono badania zintegrowanych modułów w warunkach laboratoryjnych:
 * Moduł rozpoznawania mowy – przygotowano zestaw kontrolny 100 próbek audio w różnych językach (m.in. angielski, hiszpański, japoński). Po wykonaniu 100 testów, moduł wykazał pewne odchylenia w dokładności tłumaczenia. Ustalono, że na negatywny wynik był spowodowany zbyt mocnym wychwytywaniem dźwięków zewnątrz. Wprowadzono poprawkę wstępnego odszumiania dźwięku i ponownie wykonano 100 serii testów – wyniki w całej serii były stabilne, a błędy rozpoznawania zostały zminimalizowane.
