@@ -1,8 +1,0 @@
-zad2.
-W skład podstawowej grupy docelowej wchodzą osoby podróżujące czyli turyści w wieku 18–50 lat, które chcą poznawać lokalną kulturę bez bariery językowej i bez konieczności poświęcania czasu na długotrwałą naukę lokalnego języka. W grupie tej dominują osoby młode, chętnie korzystające z nowych technologii i aplikacji mobilnych. Drugą grupą docelową są biura podróży, przewodnicy turystyczni, wypożyczalnie sprzętu turystycznego oraz firmy z branży obsługi ruchu turystycznego (np. hotele, agencje turystycznej), które chcą oferować słuchawki jako wyposażenie dla swoich klientów odwiedzających kraje o niskiej popularności języka angielskiego. Szacowana wielkość rynku  obejmuje dziesiątki milionów zagranicznych podróżnych rocznie z samej Europy
-Model biznesowy opierać się będzie na dwóch głównych filarach (segmentach oraz B2B):
-Segment klientów indywidualnych (B2C):
-Sprzedaż sprzętu: Zakup dedykowanych słuchawek wraz z podstawowym pakietem tłumaczeń (np. 5 głównych języków) w stałej cenie jednostkowej.
-Aplikacja w modelu Free: Dostęp do podstawowych tłumaczeń i prostych zwrotów w trybie darmowym. W opcji Premium (płatna subskrypcja) użytkownik otrzymuje dostęp do nielimitowanego tłumaczenia w czasie rzeczywistym z obsługą rzadkich języków i dialektów lokalnych, trybu offline   (AI).
-Segment branżowy (B2B):
-Licencja flotowa i wynajem: Sprzedaż pakietów słuchawek dla biur podróży i korporacji turystycznych wraz z coroczną opłatą licencyjną za oprogramowanie. W zależności od wybranego wariantu licencji, organizacja otrzymuje dostęp do panelu zarządzania flotą urządzeń, możliwości wgrywania dedykowanych przewodników głosowych oraz priorytetowego wsparcia technicznego.
