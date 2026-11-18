@@ -1,0 +1,228 @@
+﻿Sprawozdanie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spis treści
+
+
+1. Treść I poziomu TRL (Lab 2)
+2. Treść II poziomu TRL (Lab 3) 
+3. Treść III poziomu TRL (Lab 4)
+4. Treść IV poziomu TRL (Lab 5) 
+5. Lab 6 (Kontrolny)
+6. Treść V poziomu TRL (Lab 7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Treść I poziomu TRL (Lab 2) 
+W wyniku prac badawczych oraz analiz informatycznych, duet dwóch studentów informatyki opracował nowy projekt – słuchawki, które tłumaczą na bieżąco język rozmówcy z wykorzystaniem AI. Zauważono, że w krajach, w których ludność tubylcza nie zna biegle języka innego niż swój własny, turystom, którzy nie chcą tracić czasu na uczenie się lokalnego języka, a chcą poznać lokalną kulturę, takie słuchawki mogłyby okazać się bardzo przydatne
+2. Treść II poziomu TRL (Lab 3) 
+zad.1
+Przeprowadzono wstępną analizę możliwych zastosowań technologii tłumaczenia maszynowego mowy w czasie rzeczywistym z wykorzystaniem sztucznej inteligencji. Ustalono, że można ją rozwinąć i zintegrować z urządzeniami mobilnymi. Optymalnym rozwiązaniem jest, aby do zaprojektowanego algorytmu tłumaczenia i przetwarzania dźwięku stworzyć aplikację mobilną, która będzie stanowić intuicyjny interfejs dla użytkownika. Za jej pomocą turysta będzie mógł łatwo wybierać języki, zarządzać trybami konwersacji oraz dostosować działanie słuchawek pod własne potrzeby. Aplikacja powinna być prosta i szybka w obsłudze.
+zad.2
+Lista potrzebnych rzeczy:
+* prototyp słuchawek,
+* środowisko testowe do rozmów,
+* stabilny internet,
+* 3x komputery do trenowania i optymalizacji AI,
+* 3x środowiska programistyczne (Visual Studio).
+3. Treść III poziomu TRL (Lab 4)
+W ramach realizacji III poziomu gotowości technologicznej zostaną zrealizowane prace badawcze w następującym zakresie: 
+* Moduł rozpoznawania mowy - moduł będzie odpowiedzialny za przekształcenie słów na tekst z wykorzystaniem AI. W ramach badań 
+* szczególny nacisk położony będzie na skuteczność rozpoznawania różnych języków.
+* Moduł tłumaczenia językowego AI - moduł będzie realizował tłumaczenie tekstu uzyskanego z modułu rozpoznawania mowy na język
+* użytkownika. Prace będą skupiały się na ocenie poprawności tłumaczeń i zachowaniu kontekstu wypowiedzi.
+* Moduł syntezy mowy - moduł ten będzie odpowiadał za zamianę przetłumaczonego tekstu na komunikat głosowy.
+* Moduł transmisji bezprzewodowej - odpowiedzialny za przesyłanie danych pomiędzy urządzeniem mobilnym a słuchawkami.
+W ramach III poziomu gotowości technologicznej zostanie zweryfikowana możliwość wykorzystania istniejących technologii sztucznej inteligencji do realizacji tłumaczenia rozmów w czasie rzeczywistym.
+4. Treść IV poziomu TRL (Lab 5)
+zad1. 
+W ramach realizacji IV poziomu gotowości technologicznej przeprowadzono badania zintegrowanych modułów w warunkach laboratoryjnych:
+* Moduł rozpoznawania mowy – przygotowano zestaw kontrolny 100 próbek audio w różnych językach (m.in. angielski, hiszpański, japoński). Po wykonaniu 100 testów, moduł wykazał pewne odchylenia w dokładności tłumaczenia. Ustalono, że na negatywny wynik był spowodowany zbyt mocnym wychwytywaniem dźwięków zewnątrz. Wprowadzono poprawkę wstępnego odszumiania dźwięku i ponownie wykonano 100 serii testów – wyniki w całej serii były stabilne, a błędy rozpoznawania zostały zminimalizowane.
+* Moduł tłumaczenia językowego AI – przygotowano zestaw kontrolny 100 zróżnicowanych fraz oraz powiedzeń turystycznych. Przeprowadzono 100 serii testów translacyjnych. Algorytm wykazał miejscowe odchylenia w mowie potocznej turystów. Ustalono, że przyczyną była zbyt dosłowna interpretacja modeli. Wprowadzono korektę parametrów promptu i kontekstu okna dialogowego oraz powtórzono 100 serii testów. Wyniki w całej serii zostały poprawione, a odchylenia zminimalizowane.
+* Moduł syntezy mowy i transmisji bezprzewodowej – przygotowano zestaw kontrolny 100 przetłumaczonych komunikatów tekstowych przeznaczonych do przesłania na prototyp słuchawek. Wykonano po 100 serii testów dla przesyłu i generowania dźwięku. Podczas testów odnotowano opóźnienia w transmisji bezprzewodowej. Ustalono, że problem wynika z buforowania pakietów audio. Wprowadzono poprawkę optymalizującą rozmiar bufora transmisji i powtórzono 100 serii testów – opóźnienia spadły do akceptowalnego poziomu czasu rzeczywistego, a wyniki uznano za poprawione, a odchylenia zostały zminimalizowane.
+zad2.
+Ryzyko: Opóźnienia w tłumaczeniu w zależności od obciążenia łącza internetowego. 
+Rozwiązanie: Zastosowanie hybrydowego modelu przetwarzania – wdrożenie lekkiego, lokalnego modelu AI bezpośrednio na urządzeniu mobilnym , który wykonuje podstawowe tłumaczenia offline, gdy jakość połączenia z serwerem spada. 
+5. Lab 6 (Kontrolny)
+zad2.
+W skład podstawowej grupy docelowej wchodzą osoby podróżujące czyli turyści w wieku 18–50 lat, które chcą poznawać lokalną kulturę bez bariery językowej i bez konieczności poświęcania czasu na długotrwałą naukę lokalnego języka. W grupie tej dominują osoby młode, chętnie korzystające z nowych technologii i aplikacji mobilnych. Drugą grupą docelową są biura podróży, przewodnicy turystyczni, wypożyczalnie sprzętu turystycznego oraz firmy z branży obsługi ruchu turystycznego (np. hotele, agencje turystycznej), które chcą oferować słuchawki jako wyposażenie dla swoich klientów odwiedzających kraje o niskiej popularności języka angielskiego. Szacowana wielkość rynku  obejmuje dziesiątki milionów zagranicznych podróżnych rocznie z samej Europy
+Model biznesowy opierać się będzie na dwóch głównych filarach (segmentach oraz B2B):
+1. Segment klientów indywidualnych (B2C):
+   * Sprzedaż sprzętu: Zakup dedykowanych słuchawek wraz z podstawowym pakietem tłumaczeń (np. 5 głównych języków) w stałej cenie jednostkowej.
+   * Aplikacja w modelu Free: Dostęp do podstawowych tłumaczeń i prostych zwrotów w trybie darmowym. W opcji Premium (płatna subskrypcja) użytkownik otrzymuje dostęp do nielimitowanego tłumaczenia w czasie rzeczywistym z obsługą rzadkich języków i dialektów lokalnych, trybu offline   (AI).
+2. Segment branżowy (B2B):
+   * Licencja flotowa i wynajem: Sprzedaż pakietów słuchawek dla biur podróży i korporacji turystycznych wraz z coroczną opłatą licencyjną za oprogramowanie. W zależności od wybranego wariantu licencji, organizacja otrzymuje dostęp do panelu zarządzania flotą urządzeń, możliwości wgrywania dedykowanych przewodników głosowych oraz priorytetowego wsparcia technicznego.
+6. Treść V poziomu TRL (Lab 7)
+zad.
+W celu połączenia i zsynchronizowania wcześniej zaprogramowanych komponentów systemu zastosowano wzorzec architektoniczny MVC (Model-View-Controller). Zaprogramowano dodatkowy moduł kontrolera, którego zadaniem jest koordynacja przepływu strumieni danych pomiędzy słuchawkami a aplikacją mobilną oraz aktualizacja stanu interfejsu użytkownika. Prace skoncentrowano na weryfikacji zintegrowanych komponentów w środowisku zbliżonym do rzeczywistego (warunki uliczne, hałas otoczenia, zmienna jakość sieci).
+* Kontroler – zaprogramowany w celu zarządzania cyklem życia komunikacji między modułami. Przeprowadzono testy stabilności poprzez wielokrotne inicjowanie i przerywanie sesji tłumaczenia. Błędy powodujące zawieszenie wątków były korygowane aż do uzyskania bezbłędnych cykli pracy. Przeprowadzono testy na danych celowo uszkodzonych (np. puste ramki audio, błędne kodowanie, nieobsługiwane języki). Wykryte luki w obsłudze wyjątków poprawiono w kodzie kontrolera, uzyskując prawidłowe raportowanie błędów i bezpieczne przełączanie stanu.
+* Moduł rozpoznawania mowy  – dokonano integracji modułu z Kontrolerem. Przetestowano działanie samego modułu oraz jego komunikację z kontrolerem na próbnej bazie 1000 nagrań głosowych w warunkach zbliżonych do rzeczywistych (akcenty, pogłos, hałas wokół). Analizie poddano poprawność transkrypcji oraz czas zwracania tekstu do kontrolera. Wykryte opóźnienia i błędy wypowiedzi usunięto poprzez korektę aktywności głosowej oraz ponowne wykonanie testów na tej samej bazie 1000 próbek.
+* Moduł tłumaczenia językowego AI – dokonano integracji modułu z kontrolerem. Przeprowadzono testy na bazie 1000 złożonych wypowiedzi dialogowych (w tym zwrotów potocznych). Zweryfikowano poprawność przekładu, zachowanie kontekstu rozmowy oraz kompatybilność danych wejściowych i wyjściowych. W przypadku błędów wynikających z przekroczenia czasu oczekiwania na odpowiedź modelu lub przeciążenia kolejki zapytań w kontrolerze wprowadzono optymalizację buforowania kontekstu.
+* Moduł syntezy mowy – dokonano integracji modułu z kontrolerem. Przetestowano przekształcanie przetłumaczonych komunikatów na strumień audio w oparciu o bazę 1000 tekstów testowych o zróżnicowanej długości. Sprawdzono płynność generowanego głosu, brak zniekształceń oraz synchronizację poleceń z kontrolera. Błędy końcówek zdań wyeliminowano poprzez korektę tekstu, po czym powtórzono serię testów na wszystkich 1000 próbkach.
+* Moduł transmisji bezprzewodowej – dokonano integracji modułu z kontrolerem w celu obsługi dwukierunkowego przesyłania strumieni audio pomiędzy mikrofonem słuchawek, aplikacją mobilną a słuchawkami. Wykonano testy obciążeniowe na próbnej bazie 1000 sesji strumieniowania w czasie rzeczywistym w warunkach normalnych. Zweryfikowano jakość dźwięku, ciągłość połączenia oraz gubienia pakietów. Wyeliminowano błędy poprzez optymalizację zarządzania buforem Bluetooth i ponowne przeprowadzenie 1000 testów.
+
+
+
+
+
+
+
+
+
+
+.
